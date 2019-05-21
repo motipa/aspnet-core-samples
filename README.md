@@ -28,7 +28,6 @@ Package | Purpose
 --- | ---
 `Syncfusion.Reporting.AspNet.Core` | Contains tag helpers to create client-side reporting control.
 `Syncfusion.Reporting.Net.Core` | Creates Web API service to process the reports.
-`Syncfusion.Reporting.JavaScript` | contains reporting components scripts and style sheets.
 
 * Press `F5` or click the `Run` button in Visual Studio to launch the application.
 
