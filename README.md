@@ -16,7 +16,7 @@ This section guides you to use the Syncfusion ASP.NET Core Reports samples in yo
 The samples requires the below requirements to run.
 
 * [Visual Studio 2015/2017](https://visualstudio.microsoft.com/downloads/)
-* .Net Framework 4.5 and above
+* [.NET Core 2.1 SDK](https://dotnet.microsoft.com/download/dotnet-core)
 
 ## Using the Reporting Samples
 
